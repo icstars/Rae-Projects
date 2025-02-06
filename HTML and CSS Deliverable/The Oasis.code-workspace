@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../The Oasis"
+		},
+		{
+			"path": "../Me Page"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Me Page"
+	}
+}
